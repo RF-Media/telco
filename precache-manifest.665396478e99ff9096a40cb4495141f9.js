@@ -4,8 +4,8 @@ self.__precacheManifest = [
     "url": "/telco/static/media/feature-3.a4bcec47.svg"
   },
   {
-    "revision": "dd6b499be9175460d981",
-    "url": "/telco/static/js/main.034075bb.chunk.js"
+    "revision": "06045824d76fe36f20bd",
+    "url": "/telco/static/js/main.93e2d569.chunk.js"
   },
   {
     "revision": "f73aa07f0a6f338024510f8565bf9ee1",
@@ -52,7 +52,7 @@ self.__precacheManifest = [
     "url": "/telco/static/js/2.d71dbd13.chunk.js"
   },
   {
-    "revision": "b3a12218032453b22ced2bfc01221424",
+    "revision": "703e3b43954b4367308529972db3e518",
     "url": "/telco/index.html"
   }
 ];
