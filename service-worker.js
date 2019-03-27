@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/telco/precache-manifest.665396478e99ff9096a40cb4495141f9.js"
+  "/telco/precache-manifest.d33cf4e425d07f26a7d0f51294671bab.js"
 );
 
 workbox.clientsClaim();
