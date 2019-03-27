@@ -1,12 +1,12 @@
 {
-  "main.js": "/static/js/main.ff8bd67e.chunk.js",
-  "main.js.map": "/static/js/main.ff8bd67e.chunk.js.map",
-  "runtime~main.js": "/static/js/runtime~main.c5541365.js",
-  "runtime~main.js.map": "/static/js/runtime~main.c5541365.js.map",
-  "static/js/2.979e8785.chunk.js": "/static/js/2.979e8785.chunk.js",
-  "static/js/2.979e8785.chunk.js.map": "/static/js/2.979e8785.chunk.js.map",
-  "index.html": "/index.html",
-  "precache-manifest.231785762aeeac62aa868a52ea3f4214.js": "/precache-manifest.231785762aeeac62aa868a52ea3f4214.js",
-  "service-worker.js": "/service-worker.js",
-  "static/media/welcome-background.png": "/static/media/welcome-background.f73aa07f.png"
+  "main.js": "/telco/static/js/main.ff8bd67e.chunk.js",
+  "main.js.map": "/telco/static/js/main.ff8bd67e.chunk.js.map",
+  "runtime~main.js": "/telco/static/js/runtime~main.13a1d265.js",
+  "runtime~main.js.map": "/telco/static/js/runtime~main.13a1d265.js.map",
+  "static/js/2.ff73bca5.chunk.js": "/telco/static/js/2.ff73bca5.chunk.js",
+  "static/js/2.ff73bca5.chunk.js.map": "/telco/static/js/2.ff73bca5.chunk.js.map",
+  "index.html": "/telco/index.html",
+  "precache-manifest.759fb496a21dab004880f2ab7dd61af6.js": "/telco/precache-manifest.759fb496a21dab004880f2ab7dd61af6.js",
+  "service-worker.js": "/telco/service-worker.js",
+  "static/media/welcome-background.png": "/telco/static/media/welcome-background.f73aa07f.png"
 }
