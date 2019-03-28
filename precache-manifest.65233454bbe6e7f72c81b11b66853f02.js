@@ -1,15 +1,23 @@
 self.__precacheManifest = [
   {
-    "revision": "a4bcec4721da46c58f6517d18fba69e0",
-    "url": "/telco/static/media/feature-3.a4bcec47.svg"
+    "revision": "842071405144d56adae83cf14efd6250",
+    "url": "/telco/static/media/feature-1.84207140.svg"
   },
   {
-    "revision": "909904c5b7719e8d120b",
-    "url": "/telco/static/js/main.8f4919df.chunk.js"
+    "revision": "1bf98bd571ebd11d1b97",
+    "url": "/telco/static/js/main.6fafd4c9.chunk.js"
   },
   {
     "revision": "f73aa07f0a6f338024510f8565bf9ee1",
     "url": "/telco/static/media/welcome-background.f73aa07f.png"
+  },
+  {
+    "revision": "ea08f70ae7558a3a9b66cd9b78a898c4",
+    "url": "/telco/static/media/sip.ea08f70a.svg"
+  },
+  {
+    "revision": "dfd66a16cf8c546a2394593f4b3fc21c",
+    "url": "/telco/static/media/mobile.dfd66a16.svg"
   },
   {
     "revision": "5a142b4a199fd5e6b314d79dbd87822d",
@@ -24,12 +32,12 @@ self.__precacheManifest = [
     "url": "/telco/static/media/feature-8.032edb99.svg"
   },
   {
-    "revision": "842071405144d56adae83cf14efd6250",
-    "url": "/telco/static/media/feature-1.84207140.svg"
-  },
-  {
     "revision": "d34354db4a860869b846",
     "url": "/telco/static/js/runtime~main.13a1d265.js"
+  },
+  {
+    "revision": "a4bcec4721da46c58f6517d18fba69e0",
+    "url": "/telco/static/media/feature-3.a4bcec47.svg"
   },
   {
     "revision": "1f32d817b9480ec11e33a94e7cdc5ab4",
@@ -48,11 +56,11 @@ self.__precacheManifest = [
     "url": "/telco/static/media/feature-9.60e28aaa.svg"
   },
   {
-    "revision": "b1816d3af32d63fb18cd",
-    "url": "/telco/static/js/2.d71dbd13.chunk.js"
+    "revision": "0f80ba581e10dda2e59b",
+    "url": "/telco/static/js/2.76480d47.chunk.js"
   },
   {
-    "revision": "15c55af435ded0a1a3104bd1dd9cacee",
+    "revision": "a90121b2c62d0d311467da356557531e",
     "url": "/telco/index.html"
   }
 ];

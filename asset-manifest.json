@@ -1,12 +1,12 @@
 {
-  "main.js": "/telco/static/js/main.8f4919df.chunk.js",
-  "main.js.map": "/telco/static/js/main.8f4919df.chunk.js.map",
+  "main.js": "/telco/static/js/main.6fafd4c9.chunk.js",
+  "main.js.map": "/telco/static/js/main.6fafd4c9.chunk.js.map",
   "runtime~main.js": "/telco/static/js/runtime~main.13a1d265.js",
   "runtime~main.js.map": "/telco/static/js/runtime~main.13a1d265.js.map",
-  "static/js/2.d71dbd13.chunk.js": "/telco/static/js/2.d71dbd13.chunk.js",
-  "static/js/2.d71dbd13.chunk.js.map": "/telco/static/js/2.d71dbd13.chunk.js.map",
+  "static/js/2.76480d47.chunk.js": "/telco/static/js/2.76480d47.chunk.js",
+  "static/js/2.76480d47.chunk.js.map": "/telco/static/js/2.76480d47.chunk.js.map",
   "index.html": "/telco/index.html",
-  "precache-manifest.184902c2b66e5c2c50799bd34b9a6139.js": "/telco/precache-manifest.184902c2b66e5c2c50799bd34b9a6139.js",
+  "precache-manifest.65233454bbe6e7f72c81b11b66853f02.js": "/telco/precache-manifest.65233454bbe6e7f72c81b11b66853f02.js",
   "service-worker.js": "/telco/service-worker.js",
   "static/media/feature-1.svg": "/telco/static/media/feature-1.84207140.svg",
   "static/media/feature-2.svg": "/telco/static/media/feature-2.5a142b4a.svg",
@@ -17,5 +17,7 @@
   "static/media/feature-7.svg": "/telco/static/media/feature-7.935e36db.svg",
   "static/media/feature-8.svg": "/telco/static/media/feature-8.032edb99.svg",
   "static/media/feature-9.svg": "/telco/static/media/feature-9.60e28aaa.svg",
+  "static/media/mobile.svg": "/telco/static/media/mobile.dfd66a16.svg",
+  "static/media/sip.svg": "/telco/static/media/sip.ea08f70a.svg",
   "static/media/welcome-background.png": "/telco/static/media/welcome-background.f73aa07f.png"
 }
